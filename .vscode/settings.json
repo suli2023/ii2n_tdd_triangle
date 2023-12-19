@@ -8,6 +8,9 @@
         "lib/**/*.jar",
         "c:\\Users\\Tanar\\Library\\TestNg\\ujabb\\jcommander-1.83.jar",
         "c:\\Users\\Tanar\\Library\\TestNg\\ujabb\\slf4j-api-1.7.36.jar",
-        "c:\\Users\\Tanar\\Library\\TestNg\\ujabb\\testng-7.8.0.jar"
+        "c:\\Users\\Tanar\\Library\\TestNg\\ujabb\\testng-7.8.0.jar",
+        "/home/andras/Library/testng/jcommander-1.82.jar",
+        "/home/andras/Library/testng/slf4j-api-1.7.36.jar",
+        "/home/andras/Library/testng/testng-7.8.0.jar"
     ]
 }
